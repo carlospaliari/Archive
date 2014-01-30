@@ -1,0 +1,10 @@
+﻿
+    body { font-family:Arial, Helvetica, Sans-Serif; font-size:12px; margin:0px 0px;}
+    /* menu */
+    #menu{ margin:0px; padding:0px; list-style:none; color:#808080; width:100%; line-height:35px; display:inline-block; float:left; z-index:0; }
+    #menu a { color:#fff; text-decoration:none; }
+    #menu > li {background-color:#808080; cursor:pointer; float:left; position:relative; padding:0px 20px;}
+    #menu > li a:hover {color:#C0C0C0;}
+    #menu .logo {padding:0px; }
+   
+
