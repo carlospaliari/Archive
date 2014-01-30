@@ -2,7 +2,7 @@
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 		<title>Mensagens</title>
-	</head> 
+	</head>
 <body onload="setFocus()">
 	<table width="100%" height="85%" >
 		<tr width="70%" height="70%">
