@@ -25,7 +25,7 @@ date_default_timezone_set('America/Sao_Paulo');
             <li class="logo">
                <a href = "index.php"><img style="float:left; padding-left:20px;" height="35px" src="imagens/house.png" alt="HOME"></a>
             </li>
-            <li><a onclick="alert('Desculpe mas esta funcao ainda nao foi desenvolvida')" href="#">Login</a>
+            <li><a href="http://paliari.url.ph/">Paliari</a>
             </li>
         </ul>
     </div>
