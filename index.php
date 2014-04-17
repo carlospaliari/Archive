@@ -1,25 +1,4 @@
-﻿<?
-include "con.php";
-setlocale(LC_TIME, "pt_BR.utf8");
-date_default_timezone_set('America/Sao_Paulo');
-?>
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-
-<!--==================REFERENCIA OS ESTILOS DE CSS==================!-->
-<link rel="stylesheet" href="Estilos_css/menu.css">  
-<link rel="stylesheet" href="Estilos_css/banerflutuante.css">
-<link rel="stylesheet" href="Estilos_css/rodape.css">
-<link rel="stylesheet" href="Estilos_css/rolagem.css">
-
-<!--==================REFERENCIA AS FUNÇÕES JAVA SCRIPT=============!-->
-
-<link rel="shortcut icon" href="icon1.ico">
-</head>
-
-<body style="background-color:#CCCCCC">
+﻿
 <nav class="navbar navbar-default" role="navigation">
     <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header">
@@ -54,11 +33,32 @@ date_default_timezone_set('America/Sao_Paulo');
     <!-- /.navbar-collapse -->
 </nav>
 
+<?
+include "con.php";
+setlocale(LC_TIME, "pt_BR.utf8");
+date_default_timezone_set('America/Sao_Paulo');
+?>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+
+<!--==================REFERENCIA OS ESTILOS DE CSS==================!-->
+<link rel="stylesheet" href="Estilos_css/menu.css">  
+<link rel="stylesheet" href="Estilos_css/banerflutuante.css">
+<link rel="stylesheet" href="Estilos_css/rodape.css">
+<link rel="stylesheet" href="Estilos_css/rolagem.css">
+
+<!--==================REFERENCIA AS FUNÇÕES JAVA SCRIPT=============!-->
+
+<link rel="shortcut icon" href="icon1.ico">
+</head>
+
+<body style="background-color:#CCCCCC">
+
+
 <div style="margin-left:0px; position:fixed;" >
-        <ul id="menu" style="width:1000px;">
-            <li><a href="http://paliari.url.ph/">Paliari</a>
-            </li>
-        </ul>
     </div>
     <div style="float:none; clear:both;"></div>
     <!-- CABEÃ‡ALHO ABAIXO DO MENU !-->
