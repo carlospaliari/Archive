@@ -56,9 +56,6 @@ date_default_timezone_set('America/Sao_Paulo');
 
 <div style="margin-left:0px; position:fixed;" >
         <ul id="menu" style="width:1000px;">
-            <li class="logo">
-               <a href = "index.php"><img style="float:left; padding-left:20px;" height="35px" src="imagens/house.png" alt="HOME"></a>
-            </li>
             <li><a href="http://paliari.url.ph/">Paliari</a>
             </li>
         </ul>
