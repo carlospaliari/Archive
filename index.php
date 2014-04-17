@@ -47,7 +47,6 @@ date_default_timezone_set('America/Sao_Paulo');
                     <li><a href="http://paliari.url.ph/">Login</a></li>
                     <li><a href="http://paliari.url.ph/bd/calculadora/calculadora.html">Calculadora</a></li>
                     <li><a href="http://paliari.url.ph/bd/calculos_media/index.php">Calculos de media</a></li>
-                    <li><a href="http://paliari.url.ph/bd/index.php">Mensgens</a></li>
                 </ul>
             </li>
         </ul>
